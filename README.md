@@ -1,6 +1,6 @@
 # Annual Statistics
 
-This **webpage** (https://yessimkhanova.github.io/annual_meteo_statistics_KZ/) is designed to showcase the locations of meteorological stations in Kazakhstan and the **annual temperature and precipitation data** for each station during the 1961-2014 period.
+This **webpage** [**Annual statistics**](https://yessimkhanova.github.io/annual_meteo_statistics_KZ/) is designed to showcase the locations of meteorological stations in Kazakhstan and the **annual temperature and precipitation data** for each station during the 1961-2014 period.
 
 This project is part of doctoral research **"Mapping the effects of climate change on the territory of Kazakhstan and modeling its future trends"** conducted by **Kalamkas Yessimkhanova**, under the supervision of Dr. Matyas Gede at Eötvös Loránd University, Budapest.
 
